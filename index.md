@@ -8,3 +8,10 @@ abgebrochenen Studium an der University of Oxford ging er zunächst als Dechiffr
 in Carshall-Newtown. Von dort wird er mit weiteren Kollegen nach Oxford geschickt, um der dortigen Polizei bei einem Fall zu helfen. 
 DI Fred Thursday von der Oxford City Police findet Gefallen an der Ermittlungsarbeit von Morse und holt ihn in sein Ermittlerteam zur Aufklärung von 
 Kapitalverbrechen. 
+
+## Charaktereigenschaften
+
+* Wagnerliebhaber
+* intelligent
+* schnelle Auffasungsgabe
+* sportlich
