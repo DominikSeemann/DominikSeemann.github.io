@@ -19,3 +19,6 @@ Kapitalverbrechen.
 Inspektor Morse zu seinem Vornamen:
 
 > Ich benutze ihn nicht, meine Eltern waren doof!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Thaw_3239319590_4914932c9f_o.jpg"/>
+
