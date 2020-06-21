@@ -15,3 +15,7 @@ Kapitalverbrechen.
 * intelligent
 * schnelle Auffasungsgabe
 * sportlich
+
+Inspektor Morse zu seinem Vornamen:
+
+> Ich benutze ihn nicht, meine Eltern waren doof!
